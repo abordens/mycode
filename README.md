@@ -1,4 +1,4 @@
-# MyCode
+# mycode
 Learning to track my code
 
 # What is the purpose of putting up this repo?
